@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://i.ibb.co/80jPnzw/logo.png" alt="Logo" width="200">
+  <img src="https://gifyu.com/image/SA5Sd" alt="Logo" width="200">
   <h1 align="center">OpenHands: Code Less, Make More</h1>
 </div>
 
